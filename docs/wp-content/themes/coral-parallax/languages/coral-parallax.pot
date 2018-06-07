@@ -1,0 +1,546 @@
+# Copyright (C) 2017 Coralthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coral Parallax 1.0.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-05-28 15:29:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#. translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:51 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52 comments.php:69
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53 comments.php:70
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:20 content-single.php:30 content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:27 inc/template-tags.php:37
+msgid "Edit"
+msgstr ""
+
+#: content.php:24
+#. translators: %s: Name of current post
+msgid "Read more %s <i class=\"read-more\"></i>"
+msgstr ""
+
+#: footer.php:20
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: footer.php:32
+msgid "Coral Themes"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:69
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Default header"
+msgstr ""
+
+#: functions.php:167
+msgid "Header 1"
+msgstr ""
+
+#: functions.php:176
+msgid "Header 2"
+msgstr ""
+
+#: functions.php:185
+msgid "Upper 1"
+msgstr ""
+
+#: functions.php:194
+msgid "Upper 2"
+msgstr ""
+
+#: functions.php:203
+msgid "Upper 3"
+msgstr ""
+
+#: functions.php:212
+msgid "Upper 4"
+msgstr ""
+
+#: functions.php:221
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:231
+msgid "Footer"
+msgstr ""
+
+#: functions.php:700
+msgid "Home"
+msgstr ""
+
+#: functions.php:804
+msgid "Medium-Large"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:59 inc/customizer.php:833
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "No, I want to display my own images"
+msgstr ""
+
+#: inc/customizer.php:71 inc/customizer.php:353
+msgid "Black"
+msgstr ""
+
+#: inc/customizer.php:72 inc/customizer.php:354
+msgid "White"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Maximum two widgets side by side"
+msgstr ""
+
+#: inc/customizer.php:84 inc/customizer.php:294
+msgid "Content you set below"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Logo, Site Title, Tagline, Icon"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "You can have either an image logo, or site title and tagline"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Max. height of the logo in px"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Vertical position (margin-top) of the site title in px"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Vertical position (margin-top) of the tagline in px"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Header settings"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid ""
+"Here you can set, on which pages the full page header with your header "
+"background image will be displayed"
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Display header on frontpage"
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Display header on blog page"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Always display the header"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid ""
+"Comma separated IDs of posts/pages for which you need the header (e.g. 1, "
+"23, 54)."
+msgstr ""
+
+#: inc/customizer.php:275 inc/customizer.php:442
+msgid "Scroll background with page"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Content of the fullpage header:"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Maximum two widget areas side by side"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Header title"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Header text"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Button text"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Header button link (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Color sheme on the full page header"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Upper widgets"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid ""
+"Here you can set, on which pages the upper widgets will be displayed, and "
+"their background"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Display upper widgets on frontpage"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Display upper widgets on blog page"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Always display the upper widgets"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Display the upper widgets on these pages/posts:"
+msgstr ""
+
+#: inc/customizer.php:406 inc/customizer.php:418
+msgid "Comma separated IDs of posts/pages, e.g. 1, 23, 54"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Do NOT display the upper widgets on these pages/posts:"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer.php:455 inc/customizer.php:793
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:467
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer.php:489
+msgid "Heading color"
+msgstr ""
+
+#: inc/customizer.php:496
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:498
+msgid ""
+"The default layout is a two-column layout with left sidebar. For your pages "
+"you can also set a full width layout in the page editor by choosing the "
+"Full width page template"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Sidebar width:"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:558
+msgid "Here you can set up the typography with basic web safe or 3 google fonts"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Site title font"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Site title fontsize in px:"
+msgstr ""
+
+#: inc/customizer.php:599
+msgid "Tagline font"
+msgstr ""
+
+#: inc/customizer.php:613
+msgid "Tagline fontsize in px:"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer.php:645
+msgid "Body fontsize in px:"
+msgstr ""
+
+#: inc/customizer.php:662
+msgid "Heading font"
+msgstr ""
+
+#: inc/customizer.php:663
+msgid "The h1, h2, ... sizes are calculated from the body font size"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "Header title font"
+msgstr ""
+
+#: inc/customizer.php:677
+msgid "Header title for the full page header."
+msgstr ""
+
+#: inc/customizer.php:690
+msgid "Header title fontsize in px:"
+msgstr ""
+
+#: inc/customizer.php:708
+msgid "Header title letter spacing in px:"
+msgstr ""
+
+#: inc/customizer.php:725
+msgid "Header text font"
+msgstr ""
+
+#: inc/customizer.php:726
+msgid "Header text for the full page header."
+msgstr ""
+
+#: inc/customizer.php:739
+msgid "Header text fontsize in px:"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Header text letter spacing in px:"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Top menu font"
+msgstr ""
+
+#: inc/customizer.php:783
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:804
+msgid "Site title color"
+msgstr ""
+
+#: inc/customizer.php:815
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:827
+msgid "Keep these site title and tagline colors on the full page header?"
+msgstr ""
+
+#: inc/customizer.php:834
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:839
+msgid "Parallax setting"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid ""
+"If you need a scroll effect on an element, add the scrollflow css class and "
+"at least one of the following CSS classes to the desired object: "
+"-slide-top, -slide-left, -slide-right, -slide-bottom, -pop, -opacity. For "
+"background images there are options in other sections of the customizer to "
+"scroll or not scroll with the page"
+msgstr ""
+
+#: inc/customizer.php:851
+msgid "Easing duration on scroll in ms:"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Updated: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid "Categories:"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:73 inc/template-tags.php:79
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Categories: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "Tags: %1$s"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:17
+msgid "Previous post"
+msgstr ""
+
+#: single.php:18
+msgid "Next post"
+msgstr ""
+
+#: single.php:19
+msgid "Post navigation"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Coral Parallax"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.coralthemes.com/product/coral-parallax-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Coral Parallax is a free responsive theme with one-column or two-column "
+"layout, and full page header. The theme is optimized for SEO, and suitable "
+"e.g. for a small business site, portfolio gallery site or a blog. You can "
+"find a demo site here: http://www.coralthemes.com/demo/coralparallax/ . "
+"Further customization options will be available in the pro version."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Coralthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://coralthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full width page"
+msgstr ""
+
+#: comments.php:31
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
